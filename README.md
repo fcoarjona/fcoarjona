@@ -3,6 +3,20 @@
 <!--
 **fcoarjona/fcoarjona** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+✨ Analista de datos 📑 
+Python
+SQL
+Tableau
+CLI
+
+Emphasis, aka italics, with *asterisks* or _underscores_.
+
+Strong emphasis, aka bold, with **asterisks** or __underscores__.
+
+Combined emphasis with **asterisks and _underscores_**.
+
+Strikethrough uses two tildes. ~~Scratch this.~~
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
