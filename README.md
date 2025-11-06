@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hola, mi nombre es Francisco Arjona 👋
 
 <!--
 **fcoarjona/fcoarjona** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -32,7 +32,7 @@ Habilidades en Python, Pandas, Plotly, SQL, Tableau, CLI
 
 Proyectos:
 
-[Optimización de gastos de Marketing]("https://github.com/fcoarjona/Showz")
+[Optimización de gastos de Marketing](https://github.com/fcoarjona/Showz)
 
-[Análisis de ingresos en publicidad]("https://github.com/fcoarjona/Telecomunicaciones-Megaline")
+[Análisis de ingresos en publicidad](https://github.com/fcoarjona/Telecomunicaciones-Megaline)
 
