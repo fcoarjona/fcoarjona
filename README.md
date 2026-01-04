@@ -23,7 +23,7 @@ __Sobre mi:__
 
 ✨ Analista de datos 📑 
 
-Habilidades en Python, Pandas, Plotly, SQL, Tableau, CLI
+Habilidades en Python, Pandas, Numpy, Plotly, Scipy, SQL, Tableau, CLI
 
 😎 Buscador de soluciones
 📊 Pensador analítico
